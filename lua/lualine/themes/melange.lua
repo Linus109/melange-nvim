@@ -10,7 +10,7 @@ return {
         a = { bg = grays.com, fg = grays.float, gui = "bold" },
         b = { bg = grays.sel, fg = grays.com },
         c = { bg = grays.float, fg = grays.com },
-        y = { bg = grays.ui, fg = grays.float },
+        y = { bg = grays.sel, fg = grays.float },
     },
     insert = {
         a = { bg = bright.red, fg = grays.float, gui = "bold" },
